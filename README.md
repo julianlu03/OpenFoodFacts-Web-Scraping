@@ -1,4 +1,4 @@
-# OpenFoodFacts Nutrition Data Scraper
+# OpenFoodFacts Nutrition Web Scraping
 
 This project automates the extraction of nutrition facts from the OpenFoodFacts food database using Python using libraries pandas, Selenium, and BeautifulSoup to significantly reduces manual data collection time and allows for scalable and efficient data retrieval.
 
